@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Monika/GitHub/diamondPricePrediction/mlruns/0/4b6df0d2f3324c929aa797b0000c261b/artifacts
+end_time: 1705421879393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b6df0d2f3324c929aa797b0000c261b
+run_name: masked-kite-864
+run_uuid: 4b6df0d2f3324c929aa797b0000c261b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705421875909
+status: 3
+tags: []
+user_id: Monika

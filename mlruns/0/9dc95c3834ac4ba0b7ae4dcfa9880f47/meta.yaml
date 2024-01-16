@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Monika/GitHub/diamondPricePrediction/mlruns/0/9dc95c3834ac4ba0b7ae4dcfa9880f47/artifacts
+end_time: 1705422068309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dc95c3834ac4ba0b7ae4dcfa9880f47
+run_name: monumental-turtle-98
+run_uuid: 9dc95c3834ac4ba0b7ae4dcfa9880f47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705422065408
+status: 3
+tags: []
+user_id: Monika
